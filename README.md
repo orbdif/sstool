@@ -1,5 +1,4 @@
-# sstool
-Multipurpose Tool to catch cheaters during screenshares.
+
 # 🛡️ Minecraft Advanced SS (ScreenShare) Tool
 
 > Sunucunuzdaki şüpheli oyuncuları profesyonel bir şekilde denetlemenizi ve hile (cheat) kalıntılarını tespit etmenizi sağlayan gelişmiş kontrol aracı.
@@ -7,7 +6,7 @@ Multipurpose Tool to catch cheaters during screenshares.
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-.NET%208.0-blue?style=for-the-badge&logo=dotnet" alt=".NET Version">
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Platform">
-  <img src="https://img.shields.io/github/license/kullaniciadi/proje-adi?style=for-the-badge" alt="License">
+  <img src="[https://img.shields.io/github/license/kullaniciadi/proje-adi?style=for-the-badge](https://github.com/orbdif/sstool/blob/main/LICENSE)" alt="License">
   <img src="https://img.shields.io/github/v/release/kullaniciadi/proje-adi?style=for-the-badge" alt="Release">
 </p>
 
